@@ -1,17 +1,19 @@
 # Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Indice
+- Welcome:
+    - Adrian.
+    - Lorem Ipsum.
+    - Otra pagina mas.
 
-## Commands
+El contenido esta en las siguientes 3 paginas.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Links:
+### Adrian
+Para ir a esta parte de la pagina [Adrian](http://127.0.0.1:8000/adrian/)
 
-## Project layout
+### Loremipsum
+Para ir a esta parte de la pagina [LoremIpsum](http://127.0.0.1:8000/loremipsum/)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Otrapagmas
+Para ir a esta parte de la pagina [Otrapagmas](http://127.0.0.1:8000/otrapagmas/)
