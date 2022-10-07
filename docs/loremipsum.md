@@ -20,10 +20,10 @@ A:	Diyathinkhesaurus Rex.
 
 ## Links
 ### Welcome
-Para ir a esta parte de la pagina [Welcome](http://127.0.0.1:8000/)
+Para ir a esta parte de la pagina [Welcome](http://tendraken.github.io/Pag.WebAct.Markdown/welcome)
 
 ### Adrian
-Para ir a esta parte de la pagina [Adrian](http://127.0.0.1:8000/adrian/)
+Para ir a esta parte de la pagina [Adrian](http://tendraken.github.io/Pag.WebAct.Markdown/adrian)
 
 ### Otrapagmas
-Para ir a esta parte de la pagina [Otrapagmas](http://127.0.0.1:8000/otrapagmas/)
+Para ir a esta parte de la pagina [Otrapagmas](http://tendraken.github.io/Pag.WebAct.Markdown/otrapagmas/)
