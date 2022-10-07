@@ -17,7 +17,7 @@ Q:	What's Dr. Presume's full name?
 
 ## Links
 ### Welcome
-Para ir a esta parte de la pagina [Welcome](http://tendraken.github.io/Pag.WebAct.Markdown/adrian)
+Para ir a esta parte de la pagina [Welcome](http://tendraken.github.io/Pag.WebAct.Markdown)
 
 ### Loremipsum
 Para ir a esta parte de la pagina [LoremIpsum](http://tendraken.github.io/Pag.WebAct.Markdown/Loremipsum)
