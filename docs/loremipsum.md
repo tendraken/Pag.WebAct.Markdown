@@ -26,4 +26,4 @@ Para ir a esta parte de la pagina [Welcome](http://tendraken.github.io/Pag.WebAc
 Para ir a esta parte de la pagina [Adrian](http://tendraken.github.io/Pag.WebAct.Markdown/adrian)
 
 ### Otrapagmas
-Para ir a esta parte de la pagina [Otrapagmas](http://tendraken.github.io/Pag.WebAct.Markdown/otrapagmas/)
+Para ir a esta parte de la pagina [Otrapagmas](http://tendraken.github.io/Pag.WebAct.Markdown/otrapagmas)
