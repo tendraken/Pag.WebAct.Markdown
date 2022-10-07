@@ -20,7 +20,7 @@ A:	Diyathinkhesaurus Rex.
 
 ## Links
 ### Welcome
-Para ir a esta parte de la pagina [Welcome](http://tendraken.github.io/Pag.WebAct.Markdown/welcome)
+Para ir a esta parte de la pagina [Welcome](http://tendraken.github.io/Pag.WebAct.Markdown)
 
 ### Adrian
 Para ir a esta parte de la pagina [Adrian](http://tendraken.github.io/Pag.WebAct.Markdown/adrian)
