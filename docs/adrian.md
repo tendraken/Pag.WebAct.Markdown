@@ -17,10 +17,10 @@ Q:	What's Dr. Presume's full name?
 
 ## Links
 ### Welcome
-Para ir a esta parte de la pagina [Welcome](http://127.0.0.1:8000/)
+Para ir a esta parte de la pagina [Welcome](http://tendraken.github.io/Pag.WebAct.Markdown/adrian)
 
 ### Loremipsum
-Para ir a esta parte de la pagina [LoremIpsum](http://127.0.0.1:8000/loremipsum/)
+Para ir a esta parte de la pagina [LoremIpsum](http://tendraken.github.io/Pag.WebAct.Markdown/Loremipsum)
 
 ### Otrapagmas
-Para ir a esta parte de la pagina [Otrapagmas](http://127.0.0.1:8000/otrapagmas/)
+Para ir a esta parte de la pagina [Otrapagmas](http://tendraken.github.io/Pag.WebAct.Markdown/otrapagmas)
