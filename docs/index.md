@@ -10,10 +10,10 @@ El contenido esta en las siguientes 3 paginas.
 
 ## Links:
 ### Adrian
-Para ir a esta parte de la pagina [Adrian](http://127.0.0.1:8000/adrian/)
+Para ir a esta parte de la pagina [Adrian](http://tendraken.github.io/Pag.WebAct.Markdown/adrian)
 
 ### Loremipsum
-Para ir a esta parte de la pagina [LoremIpsum](http://127.0.0.1:8000/loremipsum/)
+Para ir a esta parte de la pagina [LoremIpsum](http://tendraken.github.io/Pag.WebAct.Markdown/loremipsum)
 
 ### Otrapagmas
-Para ir a esta parte de la pagina [Otrapagmas](http://127.0.0.1:8000/otrapagmas/)
+Para ir a esta parte de la pagina [Otrapagmas](http://tendraken.github.io/Pag.WebAct.Markdown/otrapagmas)
