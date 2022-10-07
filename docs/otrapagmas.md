@@ -19,10 +19,10 @@ How apt the poor are to be proud.
 
 ## Links
 ### Welcome
-Para ir a esta parte de la pagina [Welcome](http://127.0.0.1:8000/)
+Para ir a esta parte de la pagina [Welcome](http://tendraken.github.io/Pag.WebAct.Markdown)
 
 ### Adrian
-Para ir a esta parte de la pagina [Adrian](http://127.0.0.1:8000/adrian/)
+Para ir a esta parte de la pagina [Adrian](http://tendraken.github.io/Pag.WebAct.Markdown/adrian)
 
 ### Loremipsum
-Para ir a esta parte de la pagina [LoremIpsum](http://127.0.0.1:8000/loremipsum/)
+Para ir a esta parte de la pagina [LoremIpsum](http://tendraken.github.io/Pag.WebAct.Markdown/loremipsum)
